@@ -1,7 +1,7 @@
 import { useState, useMemo } from "react";
 import { portfolio } from "./data";
 import SummaryCard from "./components/SummaryCard";
-import HoldingsTable from "./components/holdingsTable";
+import HoldingsTable from "./components/HoldingsTable";
 import {
   calculateSummary,
   simulateHarvest
