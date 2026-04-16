@@ -1,5 +1,5 @@
 import React from 'react'
-import AssetRow from './assetRow'
+import AssetRow from './AssetRow'
 
 function HoldingsTable({
   data,
